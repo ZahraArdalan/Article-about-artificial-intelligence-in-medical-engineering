@@ -1,7 +1,14 @@
 # Article-about-artificial-intelligence-in-medical-engineering:
 ## 📚 فهرست مقالات 
-1. **Artificial intelligence assisted identification of newborn**   
-   https://drive.google.com/file/d/18jTBNx56nmmdZGKCkEcXMJMnv1OK6vP6/view?usp=sharing
+---
+
+### **1. Artificial intelligence assisted identification of newborn**
+**لینک اصلی مقاله:**  
+**لینک
+https://drive.google.com/file/d/18jTBNx56nmmdZGKCkEcXMJMnv1OK6vP6/view?usp=sharing  
+**لینک ترجمه:**  https://drive.google.com/file/d/1tKmLyD7MnqF3L6FgA0CQ9-RuJ8ccgOw7/view?usp=sharing
+
+---
    
    
    
