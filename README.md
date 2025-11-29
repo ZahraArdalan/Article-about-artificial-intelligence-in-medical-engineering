@@ -6,7 +6,7 @@
 **The main link of the article**   
 https://drive.google.com/file/d/18jTBNx56nmmdZGKCkEcXMJMnv1OK6vP6/view?usp=sharing
 **Article translation link**
-**https://drive.google.com/file/d/1As_uZ3fqEoaenJ-6ChU4BI4tTUPHCxr3/view?usp=sharing**  
+https://drive.google.com/file/d/1As_uZ3fqEoaenJ-6ChU4BI4tTUPHCxr3/view?usp=sharing
 
 ---
 
